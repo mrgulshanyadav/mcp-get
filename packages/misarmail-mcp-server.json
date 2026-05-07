@@ -1,0 +1,15 @@
+{
+  "name": "misarmail-mcp-server",
+  "description": "MisarMail MCP Server \u2014 32 tools for AI email marketing: send campaigns, manage contacts, check deliverability (DMARC/SPF/DKIM/warmup), A-B test, automate workflows, and run analytics.",
+  "vendor": "Misar AI / G1 Technologies",
+  "sourceUrl": "https://github.com/mrgulshanyadav/misarmail-mcp",
+  "homepage": "https://docs.misar.io/mail/mcp",
+  "license": "MIT",
+  "runtime": "node",
+  "environmentVariables": {
+    "MISARMAIL_API_KEY": {
+      "description": "MisarMail API key (msk_ prefix). Get yours at mail.misar.io/settings/api-keys.",
+      "required": true
+    }
+  }
+}

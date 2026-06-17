@@ -142,11 +142,8 @@ Update complete.
 
 ## Contributing
 
-We welcome contributions to the project! If you would like to contribute, please follow these guidelines:
-
-1. Fork the repository and create a new branch for your feature or bugfix.
-2. Write tests for your changes and ensure all existing tests pass.
-3. Submit a pull request with a clear description of your changes.
+Thank you for your interest in contributing to mcp-get. This project is no
+longer maintained and does not accept new issues or pull requests.
 
 ## License
 
@@ -154,9 +151,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact Information
 
-If you have any questions or need help, feel free to reach out:
-
-- GitHub Issues: [michaellatman/mcp-get](https://github.com/michaellatman/mcp-get/issues)
+This repository is retained in read-only form for existing users.
 
 ## Adding Your Own MCP Server to the Registry
 

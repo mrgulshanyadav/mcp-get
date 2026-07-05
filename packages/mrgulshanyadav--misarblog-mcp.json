@@ -1,0 +1,15 @@
+{
+  "name": "@misarblog/mcp",
+  "description": "Publish blog posts, manage drafts, generate AI cover images, and pull analytics from Misar.Blog.",
+  "vendor": "Misar AI (https://github.com/mrgulshanyadav)",
+  "sourceUrl": "https://github.com/mrgulshanyadav/misarblog-mcp",
+  "homepage": "https://www.misar.blog",
+  "license": "MIT",
+  "runtime": "node",
+  "environmentVariables": {
+    "MISARBLOG_API_KEY": {
+      "description": "Your Misar.Blog API key (starts with mbk_). Generate at https://www.misar.blog/dashboard/settings/api-keys",
+      "required": false
+    }
+  }
+}
